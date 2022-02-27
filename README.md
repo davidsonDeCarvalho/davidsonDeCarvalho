@@ -10,7 +10,7 @@
 
 #### Atualmente estou no processo de aprendizado de:
 <div>
-  <a href="https://github.com/davidsonDeCarvalho" target="_blank">
+  <a href="https://github.com/davidsonDeCarvalho">
   <img alt="html5-pic" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="css-pic" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="javascript-pic" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />

@@ -1,7 +1,7 @@
 ### Seja bem vindo(a)!
 
 <div>
-  Eu sou Davidson de Carvalho e atualmente sou estudante de desenvolvimento web na Trybe. <br>
+  Eu sou Davidson de Carvalho e atualmente sou estudante de desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. <br>
   Aqui você encontrará alguns dos meus exercícios enquanto estudante e observar minha evolução na programação.
 </div>
 

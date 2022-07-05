@@ -15,8 +15,8 @@
   <img alt="javascript-pic" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
   <img alt="jest-pic" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" />
   <img alt="react-pic" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
-  <img alt="redux-pic" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" />
   <img alt="react-testing-library-pic" height="50em" src="https://testing-library.com/img/octopus-128x128.png" title="React Testing Library" />
+  <img alt="redux-pic" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" />
   <img alt="docker-pic" height="65em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title="Docker" />  
   </a>
 </div>

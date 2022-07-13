@@ -17,7 +17,8 @@
   <img alt="react-pic" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
   <img alt="react-testing-library-pic" height="50em" src="https://testing-library.com/img/octopus-128x128.png" title="React Testing Library" />
   <img alt="redux-pic" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" />
-  <img alt="docker-pic" height="65em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title="Docker" />  
+  <img alt="docker-pic" height="65em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title="Docker" />
+  <img alt="mysql-pic" height="75em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" />
   </a>
 </div>
 
